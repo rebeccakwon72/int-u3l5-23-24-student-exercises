@@ -9,7 +9,7 @@ let row1 = document.querySelector(".row-1");
 // CHALLENGE #1 - make the rows match
 
 // 1. Set the styling of `example1` to a background color of black.
-
+//hi
 // 2. Set the styling of `pink` to a background color of pink.
 
 // 3. Set the styling of `green` to a background color of green.
